@@ -1,0 +1,6 @@
+FMY.Castle/FMY.Castle/obj/
+FMY.Castle/FMY.Castle/bin/
+FMY.Castle/docker-compose.ci.build.yml
+FMY.Castle/docker-compose.dcproj
+FMY.Castle/docker-compose.override.yml
+FMY.Castle/docker-compose.vs.debug.yml

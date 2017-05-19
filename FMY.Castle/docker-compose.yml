@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  fmy.castle:
+    image: fmy.castle
+    build:
+      context: .\FMY.Castle
+      dockerfile: Dockerfile
